@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-6-task-PreciousAimuan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25D17B2A-E8E1-4662-83EC-78D02DA0DE8F}|..\\SQ20.Net-Week6-Task.Test\\SQ20.Net-Week6-Task.Test.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20.net-week6-task.test\\splitcollectiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D17B2A-E8E1-4662-83EC-78D02DA0DE8F}|..\\SQ20.Net-Week6-Task.Test\\SQ20.Net-Week6-Task.Test.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20.net-week6-task.test\\distinctlisttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D17B2A-E8E1-4662-83EC-78D02DA0DE8F}|..\\SQ20.Net-Week6-Task.Test\\SQ20.Net-Week6-Task.Test.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20.net-week6-task.test\\numberofstatescountedtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FCB0C7-2DFF-403D-BED5-3D43E119E910}|SQ20.Net-Week6-Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-6-task-preciousaimuan\\thirdtask\\numberofstatescounted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17FCB0C7-2DFF-403D-BED5-3D43E119E910}|SQ20.Net-Week6-Task.csproj|solutionrelative:thirdtask\\numberofstatescounted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FCB0C7-2DFF-403D-BED5-3D43E119E910}|SQ20.Net-Week6-Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-6-task-preciousaimuan\\firsttask\\splitcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17FCB0C7-2DFF-403D-BED5-3D43E119E910}|SQ20.Net-Week6-Task.csproj|solutionrelative:firsttask\\splitcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FCB0C7-2DFF-403D-BED5-3D43E119E910}|SQ20.Net-Week6-Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-6-task-preciousaimuan\\secondtask\\dinstinctlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17FCB0C7-2DFF-403D-BED5-3D43E119E910}|SQ20.Net-Week6-Task.csproj|solutionrelative:secondtask\\dinstinctlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FCB0C7-2DFF-403D-BED5-3D43E119E910}|SQ20.Net-Week6-Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-6-task-preciousaimuan\\secondtask\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17FCB0C7-2DFF-403D-BED5-3D43E119E910}|SQ20.Net-Week6-Task.csproj|solutionrelative:secondtask\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FCB0C7-2DFF-403D-BED5-3D43E119E910}|SQ20.Net-Week6-Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-6-task-preciousaimuan\\secondtask\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17FCB0C7-2DFF-403D-BED5-3D43E119E910}|SQ20.Net-Week6-Task.csproj|solutionrelative:secondtask\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FCB0C7-2DFF-403D-BED5-3D43E119E910}|SQ20.Net-Week6-Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-6-task-preciousaimuan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17FCB0C7-2DFF-403D-BED5-3D43E119E910}|SQ20.Net-Week6-Task.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NumberOfStatesCounted.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-6-task-PreciousAimuan\\ThirdTask\\NumberOfStatesCounted.cs",
+              "RelativeDocumentMoniker": "ThirdTask\\NumberOfStatesCounted.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-6-task-PreciousAimuan\\ThirdTask\\NumberOfStatesCounted.cs",
+              "RelativeToolTip": "ThirdTask\\NumberOfStatesCounted.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T22:20:17.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DistinctListTests.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\SQ20.Net-Week6-Task.Test\\DistinctListTests.cs",
+              "RelativeDocumentMoniker": "..\\SQ20.Net-Week6-Task.Test\\DistinctListTests.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\SQ20.Net-Week6-Task.Test\\DistinctListTests.cs",
+              "RelativeToolTip": "..\\SQ20.Net-Week6-Task.Test\\DistinctListTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T15:23:36.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SplitCollectionTest.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\SQ20.Net-Week6-Task.Test\\SplitCollectionTest.cs",
+              "RelativeDocumentMoniker": "..\\SQ20.Net-Week6-Task.Test\\SplitCollectionTest.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\SQ20.Net-Week6-Task.Test\\SplitCollectionTest.cs",
+              "RelativeToolTip": "..\\SQ20.Net-Week6-Task.Test\\SplitCollectionTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T16:09:04.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NumberOfStatesCountedTest.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\SQ20.Net-Week6-Task.Test\\NumberOfStatesCountedTest.cs",
+              "RelativeDocumentMoniker": "..\\SQ20.Net-Week6-Task.Test\\NumberOfStatesCountedTest.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\SQ20.Net-Week6-Task.Test\\NumberOfStatesCountedTest.cs",
+              "RelativeToolTip": "..\\SQ20.Net-Week6-Task.Test\\NumberOfStatesCountedTest.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T16:06:58.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SplitCollection.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-6-task-PreciousAimuan\\FirstTask\\SplitCollection.cs",
+              "RelativeDocumentMoniker": "FirstTask\\SplitCollection.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-6-task-PreciousAimuan\\FirstTask\\SplitCollection.cs",
+              "RelativeToolTip": "FirstTask\\SplitCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T13:53:39.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DinstinctList.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-6-task-PreciousAimuan\\SecondTask\\DinstinctList.cs",
+              "RelativeDocumentMoniker": "SecondTask\\DinstinctList.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-6-task-PreciousAimuan\\SecondTask\\DinstinctList.cs",
+              "RelativeToolTip": "SecondTask\\DinstinctList.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwBIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T18:50:03.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-6-task-PreciousAimuan\\SecondTask\\Item.cs",
+              "RelativeDocumentMoniker": "SecondTask\\Item.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-6-task-PreciousAimuan\\SecondTask\\Item.cs",
+              "RelativeToolTip": "SecondTask\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T18:49:56.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-6-task-PreciousAimuan\\SecondTask\\Sales.cs",
+              "RelativeDocumentMoniker": "SecondTask\\Sales.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-6-task-PreciousAimuan\\SecondTask\\Sales.cs",
+              "RelativeToolTip": "SecondTask\\Sales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T18:49:59.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-6-task-PreciousAimuan\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-6-task-PreciousAimuan\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T19:01:22.55Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

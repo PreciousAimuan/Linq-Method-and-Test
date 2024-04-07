@@ -1,0 +1,30 @@
+C:\Users\HP\Source\Repos\sq20-net-week-6-task-Bloszom\bin\Debug\net6.0\SQ20.Net-Week6-Task.exe
+C:\Users\HP\Source\Repos\sq20-net-week-6-task-Bloszom\bin\Debug\net6.0\SQ20.Net-Week6-Task.deps.json
+C:\Users\HP\Source\Repos\sq20-net-week-6-task-Bloszom\bin\Debug\net6.0\SQ20.Net-Week6-Task.runtimeconfig.json
+C:\Users\HP\Source\Repos\sq20-net-week-6-task-Bloszom\bin\Debug\net6.0\SQ20.Net-Week6-Task.dll
+C:\Users\HP\Source\Repos\sq20-net-week-6-task-Bloszom\bin\Debug\net6.0\SQ20.Net-Week6-Task.pdb
+C:\Users\HP\Source\Repos\sq20-net-week-6-task-Bloszom\obj\Debug\net6.0\SQ20.Net-Week6-Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Source\Repos\sq20-net-week-6-task-Bloszom\obj\Debug\net6.0\SQ20.Net-Week6-Task.AssemblyInfoInputs.cache
+C:\Users\HP\Source\Repos\sq20-net-week-6-task-Bloszom\obj\Debug\net6.0\SQ20.Net-Week6-Task.AssemblyInfo.cs
+C:\Users\HP\Source\Repos\sq20-net-week-6-task-Bloszom\obj\Debug\net6.0\SQ20.Net-Week6-Task.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\sq20-net-week-6-task-Bloszom\obj\Debug\net6.0\SQ20.Net-Week6-Task.sourcelink.json
+C:\Users\HP\Source\Repos\sq20-net-week-6-task-Bloszom\obj\Debug\net6.0\SQ20.Net-Week6-Task.dll
+C:\Users\HP\Source\Repos\sq20-net-week-6-task-Bloszom\obj\Debug\net6.0\refint\SQ20.Net-Week6-Task.dll
+C:\Users\HP\Source\Repos\sq20-net-week-6-task-Bloszom\obj\Debug\net6.0\SQ20.Net-Week6-Task.pdb
+C:\Users\HP\Source\Repos\sq20-net-week-6-task-Bloszom\obj\Debug\net6.0\SQ20.Net-Week6-Task.genruntimeconfig.cache
+C:\Users\HP\Source\Repos\sq20-net-week-6-task-Bloszom\obj\Debug\net6.0\ref\SQ20.Net-Week6-Task.dll
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-6-task-PreciousAimuan\bin\Debug\net6.0\SQ20.Net-Week6-Task.exe
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-6-task-PreciousAimuan\bin\Debug\net6.0\SQ20.Net-Week6-Task.deps.json
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-6-task-PreciousAimuan\bin\Debug\net6.0\SQ20.Net-Week6-Task.runtimeconfig.json
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-6-task-PreciousAimuan\bin\Debug\net6.0\SQ20.Net-Week6-Task.dll
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-6-task-PreciousAimuan\bin\Debug\net6.0\SQ20.Net-Week6-Task.pdb
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-6-task-PreciousAimuan\obj\Debug\net6.0\SQ20.Net-Week6-Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-6-task-PreciousAimuan\obj\Debug\net6.0\SQ20.Net-Week6-Task.AssemblyInfoInputs.cache
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-6-task-PreciousAimuan\obj\Debug\net6.0\SQ20.Net-Week6-Task.AssemblyInfo.cs
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-6-task-PreciousAimuan\obj\Debug\net6.0\SQ20.Net-Week6-Task.csproj.CoreCompileInputs.cache
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-6-task-PreciousAimuan\obj\Debug\net6.0\SQ20.Net-Week6-Task.sourcelink.json
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-6-task-PreciousAimuan\obj\Debug\net6.0\SQ20.Net-Week6-Task.dll
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-6-task-PreciousAimuan\obj\Debug\net6.0\refint\SQ20.Net-Week6-Task.dll
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-6-task-PreciousAimuan\obj\Debug\net6.0\SQ20.Net-Week6-Task.pdb
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-6-task-PreciousAimuan\obj\Debug\net6.0\SQ20.Net-Week6-Task.genruntimeconfig.cache
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-6-task-PreciousAimuan\obj\Debug\net6.0\ref\SQ20.Net-Week6-Task.dll

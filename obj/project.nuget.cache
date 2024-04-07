@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ODRPljVAhSgJzgykhLMmcvypqtf6h3Dhicy9G0AT2veQbYPeSaYg1klL2XIY9Pyn8NPvKYzfrDOjOfsYvxFi4Q==",
+  "dgSpecHash": "Qlu4PazUd0srbcgV67RNPCL4WLFXiH2GayHZU6z5iy0GuyWlJyVllUnbcbrlFtIKCk3r0rkeDenihCdeR8fFKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Decagon\\source\\repos\\SQ20.Net-Week6-Task\\SQ20.Net-Week6-Task.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Decagon\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\Decagon\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\Decagon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\Decagon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-6-task-PreciousAimuan\\SQ20.Net-Week6-Task.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
